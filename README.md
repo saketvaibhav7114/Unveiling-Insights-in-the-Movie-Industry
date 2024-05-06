@@ -1,4 +1,5 @@
 This repository contains the data file for a BI dashboard that provides insights into the movie industry.
+
 **Table of Contents**
 * Overview
 * Demo
